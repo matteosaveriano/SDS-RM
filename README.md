@@ -3,7 +3,7 @@
 An implementation of the SDS-RM approach described in [(Saveriano, Abu-dakka, and Kyrki, 2023)]([https://www.sciencedirect.com/science/article/pii/S0921889023001495)).
 
 ## Demo description
-- `main_LASA.m`: a demo to run SDS-RM on the Riemannian LASA (R-LASA) Handwriting dataset .
+- `main_R_LASA.m`: a demo to run SDS-RM on the Riemannian LASA (R-LASA) Handwriting dataset .
 
 ## Software Requirements
 The code is developed and tested under `Matlab2023b`.
