@@ -13,7 +13,7 @@ The code is developed and tested under `Matlab2023b`.
 Please acknowledge the authors in any academic publication that used parts of these codes.
 ```
 @article{Saveriano2023Learning,
-  title={ILearning stable robotic skills on Riemannian manifolds},
+  title={Learning stable robotic skills on Riemannian manifolds},
   author = {Matteo Saveriano and Fares J. Abu-Dakka and Ville Kyrki},
 journal = {Robotics and Autonomous Systems},
 volume = {169},
