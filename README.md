@@ -1,6 +1,6 @@
 # Stable Dynamical Systems on Riemannian Manifolds (SDS-RM)
 
-An implementation of the SDS-RM approach described in [(Saveriano, Abu-dakka, and Kyrki, 2023)](https://www.sciencedirect.com/science/article/pii/S0921889023001495).
+An implementation of the SDS-RM approach described in [Saveriano, Abu-dakka, and Kyrki, 2023](https://www.sciencedirect.com/science/article/pii/S0921889023001495).
 
 ## Demos description
 - `main_R_LASA_SPD.m`: a demo to run SDS-RM on the Riemannian LASA (R-LASA) Handwriting dataset using Symmetric and Positive Definite (SPD) matrices.
